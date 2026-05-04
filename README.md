@@ -19,41 +19,6 @@ This project investigates how KV (Key-Value) cache growth affects LLM inference 
 
 ---
 
-## Repository Structure
-
-```
-├── KV_Cache_Mistral.ipynb        # Primary notebook — Mistral-7B on Colab A100
-├── KV_Cache_TinyLlama.ipynb      # Comparison notebook — TinyLlama-1.1B on RTX 2060
-├── results/                      # CSV summaries from all experiments
-│   ├── baseline_summary.csv
-│   ├── baseline_results.csv
-│   ├── context_compare_summary.csv
-│   ├── context_compare_results.csv
-│   ├── window_ablation_summary.csv
-│   ├── window_ablation_results.csv
-│   ├── actual_kv_optimization_summary.csv
-│   ├── actual_kv_optimization_results.csv
-│   ├── perplexity_results.csv
-│   ├── tradeoff_table.csv
-│   ├── bottleneck_table.csv
-│   ├── realistic_benchmark_summary.csv
-│   └── realistic_quality_outputs.csv
-├── plots/                        # All generated figures
-│   ├── latency_vs_prompt_length.png
-│   ├── latency_per_token_vs_prompt_length.png
-│   ├── vram_vs_prompt_length.png
-│   ├── full_vs_reduced_context_latency.png
-│   ├── full_vs_reduced_context_vram.png
-│   ├── actual_kv_comparison.png
-│   ├── pareto_tradeoff.png
-│   ├── hardware_comparison.png
-│   ├── window_size_vs_latency_per_token.png
-│   └── window_size_vs_vram.png
-└── README.md
-```
-
----
-
 ## Hardware & Software Requirements
 
 ### Primary Experiments (Mistral-7B)
