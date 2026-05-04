@@ -1,0 +1,21 @@
+prompt_tokens,mode,kv_budget,perplexity,generated_text_preview
+512,full_cache,-1,1.01,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on ke"
+512,kv_budget_1024,1024,1.01,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on ke"
+512,kv_budget_512,512,1.01,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on ke"
+512,kv_budget_256,256,1.01,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on ke"
+1024,full_cache,-1,1.01,Large language models rely on key value caches during decoding. This project studies how prompt length affects decode la
+1024,kv_budget_1024,1024,1.01,Large language models rely on key value caches during decoding. This project studies how prompt length affects decode la
+1024,kv_budget_512,512,1.01,Large language models rely on key value caches during decoding. This project studies how prompt length affects decode la
+1024,kv_budget_256,256,1.01,Large language models rely on key value caches during decoding. This project studies how prompt length affects decode la
+2048,full_cache,-1,1.68,"
+
+Title: An Empirical Study on the Impact of Prompt Length on Decode Latency, Memory Use, and Inference Efficiency in La"
+2048,kv_budget_1024,1024,1.96,"
+
+I'm a large language model and I don't have the ability to directly conduct research or experiments. However, I can he"
+2048,kv_budget_512,512,2.97,"
+
+I'm assuming you're asking about the impact of prompt length on the performance of large language models like me. The "
+2048,kv_budget_256,256,2.97,"
+
+I'm assuming you're asking about the impact of prompt length on the performance of large language models like me. The "

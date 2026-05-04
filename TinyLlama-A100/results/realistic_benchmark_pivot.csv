@@ -1,0 +1,8 @@
+,total_latency_sec,total_latency_sec,decode_sec_per_token,decode_sec_per_token,peak_vram_mb,peak_vram_mb
+mode,full_context,reduced_context,full_context,reduced_context,full_context,reduced_context
+prompt_name,,,,,,
+factual_qa,1.5655,1.5574,0.024,0.0239,2196.875,2153.3633
+long_context_explanation,1.5717,1.5816,0.0241,0.0243,2196.875,2153.3633
+reasoning,1.5632,1.575,0.0239,0.0242,2196.875,2153.3633
+retrieval_style,1.5777,1.5616,0.0242,0.024,2196.875,2153.3633
+summarization,1.5762,1.5603,0.0241,0.0239,2196.875,2153.3633

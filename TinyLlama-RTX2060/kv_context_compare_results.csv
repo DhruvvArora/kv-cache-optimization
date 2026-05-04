@@ -1,0 +1,7 @@
+mode,prompt_tokens,generated_tokens,total_latency_sec,avg_decode_sec_per_token,peak_vram_mb,run
+reduced_context,512,64,3.3759,0.0527,2249.46,1
+reduced_context,512,64,3.2237,0.0504,2249.47,2
+reduced_context,512,64,3.3416,0.0522,2249.47,3
+full_context,1024,64,3.9539,0.0618,2600.62,1
+full_context,1024,64,4.2411,0.0663,2600.63,2
+full_context,1024,64,3.8518,0.0602,2600.63,3

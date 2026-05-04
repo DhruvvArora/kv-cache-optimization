@@ -1,0 +1,11 @@
+prompt_name,mode,ttft_sec,decode_sec_per_token,total_latency_sec,peak_vram_mb
+factual_qa,full_context,0.0309,0.024,1.5655,2196.875
+factual_qa,reduced_context,0.0293,0.0239,1.5574,2153.3633
+long_context_explanation,full_context,0.0309,0.0241,1.5717,2196.875
+long_context_explanation,reduced_context,0.0291,0.0243,1.5816,2153.3633
+reasoning,full_context,0.031,0.0239,1.5632,2196.875
+reasoning,reduced_context,0.0286,0.0242,1.575,2153.3633
+retrieval_style,full_context,0.0313,0.0242,1.5777,2196.875
+retrieval_style,reduced_context,0.0282,0.024,1.5616,2153.3633
+summarization,full_context,0.0313,0.0241,1.5762,2196.875
+summarization,reduced_context,0.0282,0.0239,1.5603,2153.3633

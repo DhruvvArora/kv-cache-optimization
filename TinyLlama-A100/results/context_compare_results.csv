@@ -1,0 +1,31 @@
+prompt_tokens,generated_tokens,ttft_sec,prefill_sec,decode_sec,total_latency_sec,decode_sec_per_token,peak_vram_mb,generated_text,mode,run
+512,64,0.030293703079223633,0.030293703079223633,1.5672814846038818,1.5976641178131104,0.024488773196935654,2153.314453125,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the field of language modeling? 
+<|assistant|>
+The project titled ""Large Language Models: Effects of Prompt Length on Inference",reduced_context,1
+512,64,0.029068946838378906,0.029068946838378906,1.5630214214324951,1.5921969413757324,0.024422209709882736,2153.314453125,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the field of language modeling? 
+<|assistant|>
+The project titled ""Large Language Models: Effects of Prompt Length on Inference",reduced_context,2
+512,64,0.02916884422302246,0.02916884422302246,1.5456020832061768,1.5748515129089355,0.024150032550096512,2153.314453125,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the field of language modeling? 
+<|assistant|>
+The project titled ""Large Language Models: Effects of Prompt Length on Inference",reduced_context,3
+512,64,0.02864861488342285,0.02864861488342285,1.552926778793335,1.5816497802734375,0.02426448091864586,2153.314453125,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the field of language modeling? 
+<|assistant|>
+The project titled ""Large Language Models: Effects of Prompt Length on Inference",reduced_context,4
+512,64,0.028748273849487305,0.028748273849487305,1.5667879581451416,1.5956110954284668,0.024481061846017838,2153.314453125,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the field of language modeling? 
+<|assistant|>
+The project titled ""Large Language Models: Effects of Prompt Length on Inference",reduced_context,5
+1024,64,0.03229379653930664,0.03229379653930664,1.5806925296783447,1.613070011138916,0.024698320776224136,2196.826171875,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",full_context,1
+1024,64,0.03135824203491211,0.03135824203491211,1.5455565452575684,1.576995611190796,0.024149321019649506,2196.826171875,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",full_context,2
+1024,64,0.031653642654418945,0.031653642654418945,1.5412728786468506,1.5730276107788086,0.02408238872885704,2196.826171875,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",full_context,3
+1024,64,0.031009435653686523,0.031009435653686523,1.5438458919525146,1.5749413967132568,0.02412259206175804,2196.826171875,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",full_context,4
+1024,64,0.03112030029296875,0.03112030029296875,1.542614459991455,1.573833703994751,0.024103350937366486,2196.826171875,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",full_context,5

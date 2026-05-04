@@ -1,0 +1,23 @@
+prompt_tokens,mode,kv_budget,perplexity,generated_text_preview
+512,full_cache,-1,2.72,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the fi"
+512,kv_budget_1024,1024,2.72,"
+
+Based on the text material, can you provide a summary of the project's main findings and their implications for the fi"
+512,kv_budget_512,512,2.61,"
+
+Based on the text material, what are the main findings of the research project on the impact of prompt length on langu"
+512,kv_budget_256,256,3.18,"
+
+The project will involve the following activities:
+
+1. Data collection: The project will involve collecting data from "
+1024,full_cache,-1,1.0,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory u"
+1024,kv_budget_1024,1024,1.0,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory u"
+1024,kv_budget_512,512,1.0,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory u"
+1024,kv_budget_256,256,1.0,"models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory u"
+2048,full_cache,-1,1.0,"value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inf"
+2048,kv_budget_1024,1024,1.0,"value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inf"
+2048,kv_budget_512,512,1.0,"value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inf"
+2048,kv_budget_256,256,1.0,"value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inf"

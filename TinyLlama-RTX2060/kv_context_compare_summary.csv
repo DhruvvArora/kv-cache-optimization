@@ -1,0 +1,3 @@
+mode,prompt_tokens,generated_tokens,total_latency_sec,avg_decode_sec_per_token,peak_vram_mb
+full_context,1024,64.0,4.0156,0.06276666666666667,2600.6266666666666
+reduced_context,512,64.0,3.3137333333333334,0.05176666666666666,2249.4666666666667

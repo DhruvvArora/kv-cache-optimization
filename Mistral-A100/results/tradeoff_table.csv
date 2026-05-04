@@ -1,0 +1,5 @@
+mode,decode_ms_per_token,decode_vram_mb,avg_perplexity,latency_delta_%,vram_delta_%,ppl_delta_%
+full_cache,35.26,14798.8,1.23,0.0,0.0,0.0
+kv_budget_1024,38.18,14710.8,1.33,8.3,-0.6,7.6
+kv_budget_512,38.84,14646.8,1.66,10.2,-1.0,34.9
+kv_budget_256,39.11,14614.8,1.66,10.9,-1.2,34.9

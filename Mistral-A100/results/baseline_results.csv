@@ -1,0 +1,19 @@
+prompt_tokens,generated_tokens,ttft_sec,prefill_sec,decode_sec,total_latency_sec,decode_sec_per_token,peak_vram_mb,generated_text,run
+512,32,0.048233747482299805,0.048233747482299805,1.1474707126617432,1.1957941055297852,0.035858459770679474,13942.94921875,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project",1
+512,32,0.04753875732421875,0.04753875732421875,1.1545956134796143,1.2022221088409424,0.036081112921237946,13942.94921875,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project",2
+512,32,0.04811596870422363,0.04811596870422363,1.1527254581451416,1.2009315490722656,0.036022670567035675,13942.94921875,"how prompt length affects decode latency, memory use, and overall inference efficiency. Large language models rely on key value caches during decoding. This project",3
+1024,32,0.08963656425476074,0.08963656425476074,1.1634173393249512,1.2532086372375488,0.036356791853904724,14065.21484375,"Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",1
+1024,32,0.08462285995483398,0.08462285995483398,1.1532831192016602,1.238025426864624,0.03604009747505188,14065.21484375,"Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",2
+1024,32,0.08458566665649414,0.08458566665649414,1.157670497894287,1.2423954010009766,0.03617720305919647,14065.21484375,"Large language models rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency",3
+2048,32,0.1616361141204834,0.1616361141204834,1.1721417903900146,1.3340201377868652,0.03662943094968796,14309.74609375,"
+
+Title: An Empirical Study on the Impact of Prompt Length on Decode Latency, Memory Use, and Inference Efficiency in Large Language",1
+2048,32,0.1612691879272461,0.1612691879272461,1.1636898517608643,1.3251688480377197,0.03636530786752701,14309.74609375,"
+
+Title: An Empirical Study on the Impact of Prompt Length on Decode Latency, Memory Use, and Inference Efficiency in Large Language",2
+2048,32,0.16145038604736328,0.16145038604736328,1.1491963863372803,1.3108720779418945,0.03591238707304001,14309.74609375,"
+
+Title: An Empirical Study on the Impact of Prompt Length on Decode Latency, Memory Use, and Inference Efficiency in Large Language",3
+4096,32,0.32636332511901855,0.32636332511901855,1.1351501941680908,1.4616811275482178,0.03547344356775284,14798.80859375,"rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language",1
+4096,32,0.3245258331298828,0.3245258331298828,1.1327390670776367,1.457475185394287,0.03539809584617615,14798.80859375,"rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language",2
+4096,32,0.3251948356628418,0.3251948356628418,1.1292011737823486,1.4545814990997314,0.035287536680698395,14798.80859375,"rely on key value caches during decoding. This project studies how prompt length affects decode latency, memory use, and overall inference efficiency. Large language",3
