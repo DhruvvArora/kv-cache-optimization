@@ -90,8 +90,8 @@ This project investigates how KV (Key-Value) cache growth affects LLM inference 
 
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone https://github.com/DhruvvArora/kv-cache-optimization.git
+   cd kv-cache-optimization
    ```
 2. Install dependencies:
    ```bash
