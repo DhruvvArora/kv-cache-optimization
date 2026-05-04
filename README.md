@@ -1,7 +1,7 @@
 # KV Cache Optimization for Efficient LLM Serving
 
 **Course:** CS595 Efficient Machine Learning Systems  
-**Team:** Devarsh Kale & Dhruv Arora  
+**Team:** Dhruv Arora & Devarsh Kale  
 **Project Type:** Engineering / Measurement
 
 ---
